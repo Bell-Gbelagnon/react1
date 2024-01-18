@@ -1,0 +1,10 @@
+{
+    "music": [
+        {"id": 1, "titre": "papa", "artiste": "dadju"},
+        {"id": 2, "titre": "mifon", "artiste": "king"},
+        {"id": 3, "titre": "pire", "artiste": "gims"},
+        {"id": 4, "titre": "route", "artiste": "gandji"},
+        {"id": 5, "titre": "bebe", "artiste": "naza"},
+        {"id": 6, "titre": "djadja", "artiste": "aya"}
+    ]
+}
